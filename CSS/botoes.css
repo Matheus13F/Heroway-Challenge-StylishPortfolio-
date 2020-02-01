@@ -1,0 +1,9 @@
+.botoes{
+    width: 100%;
+    height: 400px;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 180px;
+}
