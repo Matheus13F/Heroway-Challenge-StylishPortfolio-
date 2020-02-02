@@ -44,3 +44,74 @@
     font-weight: bolder;
 }
 
+/* MENU LATERAL AQUI */
+/* 
+.sidebar-teste{
+    position: fixed;
+    left: -240px;
+    width: 240px;
+    height: 100%;
+    background: #1e1e1e;
+}
+
+.sidebar-teste header{
+    color: #fff;
+    font-size: 30px;
+    line-height: 70px;
+    text-align: center;
+    user-select: none;
+    background-color: #1b1b1b;
+}
+
+.sidebar-teste a{
+    display: block;
+    color: #fff;
+    height: 65px;
+    line-height: 65px;
+    padding-left: 30px;
+    width: 100%;
+    border-bottom: 1px solid #272B33;
+    border-left: 5px solid transparent;
+    text-decoration: none;
+
+}
+.sidebar-teste span{
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+a:hover, a:active{
+    border-left: 5px solid #FAC102 ;
+    color: #FAC102;
+}
+
+.sidebar-teste a i{
+
+}
+
+#check{
+    display: none;
+
+}
+label #btn, label #cancelar{
+    position: absolute;
+    cursor: pointer;
+    background-color: #262626;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    color: #fff;
+    font-size: 29px;
+    border-radius: 5px;
+    border: 1px solid #262626;
+}
+
+label #cancelar{
+    opacity: 0;
+    visibility: hidden;
+}
+
+#check:checked ~ label #btn{
+    margin-left: 245px;
+} */

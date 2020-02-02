@@ -26,6 +26,7 @@
 }
 .descricao .button-descricao:hover{
     cursor: pointer;
+    background-color: #616161;
 }
 
 .descricao .text-descricao{
