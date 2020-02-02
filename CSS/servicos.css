@@ -23,6 +23,8 @@
     display: flex;
     flex-direction:row;
     margin-top: 35px; 
+    align-items: center;
+    justify-content: space-around;
 }
 
 .generic{
@@ -30,8 +32,6 @@
     border-radius: 100%;
     width: 100px;
     height: 100px;
-    margin-left: 50px;
-    margin-right: 50px;
     justify-content: center;
 }
 
@@ -55,14 +55,73 @@
 .all-text{
     display: flex;
     flex-direction:row;
-    margin-top: 35px; 
+    margin-top: 35px  
 }
 
 .generictext{
     background-color: transparent;
-    width: 100px;
+    width: 270px;
     height: 100%;
-    margin-left: 50px;
-    margin-right: 50px;
+}
+
+.text1 {
+    align-items: center;
     justify-content: center;
+    display: flex;
+}
+
+.text1 > p{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.text2 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.text2 > p{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.text3 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.text3 > p{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.text4 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.text4 > p{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.servicos p{
+    font-weight: bolder;
+    font-size: 18px;  
+}
+
+.servicos span {
+    font-weight: normal;
+    font-size: 15px;
 }

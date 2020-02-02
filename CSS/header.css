@@ -6,8 +6,7 @@
     align-items: center;
     justify-content: center;
     background-image: url(../IMG/bg-masthead.jpg);
-    background-repeat: no-repeat;
-    
+    background-repeat: no-repeat;    
 }
 .header h1{
     font-size: 100px;
