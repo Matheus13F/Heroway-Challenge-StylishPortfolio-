@@ -30,7 +30,7 @@
 This project has a UI Documentation of reusable components, allowing to test them individually.
 
 <p align="left">
-   <img src="./img/home.png" />
+   <img src="./IMG/home.png" />
 </p>
 
 # :construction_worker: Installation
